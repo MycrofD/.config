@@ -1,3 +1,6 @@
 [submodule "lvim"]
 	path = lvim
 	url = git@github.com:MycrofD/lvim.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:MycrofD/tmux.git
