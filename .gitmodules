@@ -7,3 +7,6 @@
 [submodule "wezterm"]
 	path = wezterm
 	url = git@github.com:MycrofD/wezterm.git
+[submodule "karabiner"]
+	path = karabiner
+	url = git@github.com:MycrofD/karabiner.git
