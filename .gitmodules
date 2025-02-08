@@ -10,3 +10,6 @@
 [submodule "karabiner"]
 	path = karabiner
 	url = git@github.com:MycrofD/karabiner.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:MycrofD/nvim.git
